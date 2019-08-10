@@ -15,3 +15,5 @@ For instance, it can filter out request if it contains some invalid content, or 
 
 serverlet listener is used to listen for events in a web container
 ex: create a session or create attribute in session
+
+Bean is an object that is used by Spring IoC container.
