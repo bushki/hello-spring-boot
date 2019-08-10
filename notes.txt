@@ -1,6 +1,9 @@
 start at
 http://localhost:8080/hello
 
+servlet (result is printed in console)
+http://localhost:8080/helloServlet
+
 maven
 mvn spring-boot:run
 
