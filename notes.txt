@@ -1,0 +1,7 @@
+start at
+http://localhost:8080/hello
+
+maven
+mvn spring-boot:run
+
+@RestController is a specialized version of controller,
