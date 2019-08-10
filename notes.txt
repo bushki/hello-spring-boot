@@ -7,4 +7,8 @@ http://localhost:8080/helloServlet
 maven
 mvn spring-boot:run
 
-@RestController is a specialized version of controller,
+@RestController is a specialized version of controller
+
+Filter is a component that is used to preprocessing and postprocessing requests.
+It can be used to validate, encrypt/decrypt, log requests.
+For instance, it can filter out request if it contains some invalid content, or ignore requests that do not contain required request parameter.
